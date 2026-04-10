@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load data
 
-df = pd.read_csv("/Users/shivani/MINI PROJECT/data/trends_analysed.csv")
+df = pd.read_csv("data/trends_analysed.csv")
 
 # Create outputs folder
 os.makedirs("outputs", exist_ok=True)
