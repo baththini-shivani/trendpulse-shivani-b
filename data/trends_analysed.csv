@@ -1,0 +1,87 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,165,100,henrygarner,2026-04-07 19:41:13,0.6024096385542169,False
+47675013,Dropping Cloudflare for Bunny.net,technology,81,32,shintoist,2026-04-07 19:41:15,0.3902439024390244,False
+47672295,Every GPU That Mattered,technology,175,93,jonbaer,2026-04-07 19:41:15,0.5284090909090909,False
+47672318,Blackholing My Email,technology,93,4,semyonsh,2026-04-07 19:41:20,0.0425531914893617,False
+47673541,AI may be making us think and write more alike,technology,111,104,giuliomagnifico,2026-04-07 19:41:22,0.9285714285714286,False
+47674786,The best tools for sending an email if you go silent,technology,11,4,alcazar,2026-04-07 19:41:28,0.3333333333333333,False
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1214,654,StanAngeloff,2026-04-07 19:41:33,0.5382716049382716,True
+47641528,Apollo Guidance Computer restoration videos,technology,78,11,mariuz,2026-04-07 19:41:41,0.13924050632911392,False
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,224,346,flinner,2026-04-07 19:41:42,1.5377777777777777,True
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,113,23,kitfunso,2026-04-07 19:41:49,0.20175438596491227,False
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,144,227,tantalor,2026-04-07 19:41:54,1.5655172413793104,False
+47673576,Why a new computer is slower than an old computer [video],technology,7,1,tiernano,2026-04-07 19:41:54,0.125,False
+47665902,Wikipedia's AI agent row likely just the beginning of the bot-ocalypse,technology,55,60,hackernj,2026-04-07 19:42:00,1.0714285714285714,False
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,881,130,armanified,2026-04-07 19:42:05,0.1473922902494331,True
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,318,149,rglullis,2026-04-07 19:42:08,0.4670846394984326,True
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,276,35,karimf,2026-04-07 19:42:13,0.1263537906137184,True
+47667504,Ask HN: How do you handle marketing as a solo technical founder?,technology,97,73,lazarkap,2026-04-07 19:42:15,0.7448979591836735,False
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,130,70,stevebmark,2026-04-07 19:42:16,0.5343511450381679,False
+47673444,"No ""New Deal"" for OpenAI",technology,7,1,jger15,2026-04-07 19:42:17,0.125,False
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,152,21,ikessler,2026-04-07 19:42:22,0.13725490196078433,False
+47648828,"Eight years of wanting, three months of building with AI",technology,937,297,brilee,2026-04-07 19:42:44,0.31663113006396587,True
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,445,282,thisislife2,2026-04-07 19:42:50,0.6322869955156951,True
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,214,26,desideratum,2026-04-07 19:42:51,0.12093023255813953,True
+47640728,Show HN: A game where you build a GPU,technology,951,185,Jaso1024,2026-04-07 19:42:57,0.19432773109243698,True
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,401,99,vbtechguy,2026-04-07 19:43:00,0.2462686567164179,True
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,84,7,ductionist,2026-04-07 19:43:38,0.08235294117647059,False
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,315,154,Bender,2026-04-07 19:44:01,0.4873417721518987,True
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,296,84,player_piano,2026-04-07 19:44:07,0.2828282828282828,True
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,963,613,zaikunzhang,2026-04-07 19:45:32,0.6358921161825726,True
+47671498,When War Crimes Rhetoric Becomes Battlefield Reality,worldnews,38,39,dogscatstrees,2026-04-07 19:45:35,1.0,False
+47669649,Global Fuel Shortage Pushes Governments Toward Demand Controls,worldnews,14,10,toomuchtodo,2026-04-07 19:46:11,0.6666666666666666,False
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,592,209,pretext,2026-04-07 19:47:20,0.3524451939291737,True
+47664308,JPMorgan warns Tesla stock could sink 60% in new note,worldnews,61,18,freediddy,2026-04-07 19:47:35,0.2903225806451613,False
+47672537,Trump dilemma for US officers: disobey orders or commit war crimes,worldnews,6,0,KnuthIsGod,2026-04-07 19:47:45,0.0,False
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,42,12,anigbrowl,2026-04-07 19:48:19,0.27906976744186046,False
+47668127,Bitwarden Is Down,worldnews,16,3,zhan_eg,2026-04-07 19:48:19,0.17647058823529413,False
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,76,42,1659447091,2026-04-07 19:48:25,0.5454545454545454,False
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,297,148,Growtika,2026-04-07 19:48:44,0.4966442953020134,True
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,52,17,zdw,2026-04-07 19:50:15,0.32075471698113206,False
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,18,10,1vuio0pswjnm7,2026-04-07 19:50:29,0.5263157894736842,False
+47618221,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-07 19:50:49,0.753731343283582,False
+47672778,Breaking the console: a brief history of video game security,sports,48,9,sprado,2026-04-07 19:52:39,0.1836734693877551,False
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,511,151,akyuu,2026-04-07 19:54:33,0.294921875,True
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,295,186,keepamovin,2026-04-07 19:54:56,0.6283783783783784,True
+47637377,LÖVE: 2D Game Framework for Lua,sports,409,214,cl3misch,2026-04-07 19:55:55,0.5219512195121951,True
+47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,6,1,naorz,2026-04-07 19:56:46,0.14285714285714285,False
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,221,145,pseudolus,2026-04-07 19:58:09,0.6531531531531531,True
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,784,367,hkmaxpro,2026-04-07 19:58:11,0.467515923566879,True
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-07 19:58:29,0.16,False
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-07 19:58:41,0.9384615384615385,False
+47641615,Sopwith – 1984 Game (2000),sports,98,42,elvis70,2026-04-07 19:59:13,0.42424242424242425,False
+47662682,Tattoo ink induces inflammation and alters the immune response to vaccination,sports,15,0,ryan_j_naughton,2026-04-07 20:09:48,0.0,False
+47627217,Running Out of Disk Space in Production,science,83,37,romes,2026-04-07 20:11:08,0.44047619047619047,False
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,52,0,tosh,2026-04-07 20:11:50,0.0,False
+47650502,Computational Physics (2nd Edition) (2025),science,182,22,teleforce,2026-04-07 20:12:16,0.12021857923497267,False
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-07 20:12:20,0.5470085470085471,False
+47648404,My Google Workspace account suspension,science,368,217,zenincognito,2026-04-07 20:13:13,0.5880758807588076,True
+47629485,A case study in testing with 100+ Claude agents in parallel,science,66,54,thejash,2026-04-07 20:13:39,0.8059701492537313,False
+47611993,VR Realizes the Cyberspace Metaphor,science,17,17,dryadin,2026-04-07 20:14:56,0.9444444444444444,False
+47663650,NASA's Artemis II Crew Flies Around the Moon (Official Broadcast) [video],science,6,1,gwbas1c,2026-04-07 20:16:28,0.14285714285714285,False
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-07 20:16:41,0.14634146341463414,False
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,204,91,sam-bee,2026-04-07 20:17:39,0.44390243902439025,True
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,65,12,intofarlands,2026-04-07 20:17:41,0.18181818181818182,False
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,53,11,Sean-Der,2026-04-07 20:17:45,0.2037037037037037,False
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,142,122,Zm44,2026-04-07 20:17:45,0.8531468531468531,False
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,entertainment,63,10,mooreds,2026-04-07 20:17:53,0.15625,False
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,423,189,MattHart88,2026-04-07 20:17:57,0.44575471698113206,True
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,26,18,fsloth,2026-04-07 20:18:05,0.6666666666666666,False
+47660853,Book review: There Is No Antimemetics Division,entertainment,273,204,ibobev,2026-04-07 20:18:10,0.7445255474452555,True
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,96,27,noone_youknow,2026-04-07 20:18:11,0.27835051546391754,False
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,110,38,factorialboy,2026-04-07 20:18:16,0.34234234234234234,False
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,59,12,4RH1T3CT0R,2026-04-07 20:18:22,0.2,False
+47662429,Show HN: Weird Clocks,entertainment,46,13,vunderba,2026-04-07 20:18:47,0.2765957446808511,False
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,315,201,nevernothing,2026-04-07 20:18:50,0.6360759493670886,True
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,98,22,mohshomis,2026-04-07 20:19:01,0.2222222222222222,False
+47652322,Music for Programming,entertainment,345,170,merusame,2026-04-07 20:19:07,0.4913294797687861,True
+47637206,Show HN: Docking – Extensible Linux dock in Python,entertainment,26,8,edumucelli,2026-04-07 20:19:13,0.2962962962962963,False
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,83,9,lexalizer,2026-04-07 20:19:22,0.10714285714285714,False
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,173,30,laszlokorte,2026-04-07 20:19:22,0.1724137931034483,False
+47658617,Show HN: I just built a MCP Server that connects Claude to all your wearables,entertainment,17,12,anton_salcher,2026-04-07 20:19:30,0.6666666666666666,False
+47645025,Show HN: Contrapunk – Real-time counterpoint harmony from guitar input,entertainment,118,54,waveywaves,2026-04-07 20:19:34,0.453781512605042,False
+47665630,Show HN: Meta-agent: self-improving agent harnesses from live traces,entertainment,10,0,essamsleiman,2026-04-07 20:19:36,0.0,False
+47662313,Show HN: ReverseCam – See yourself as others see you,entertainment,10,1,ilamparithi,2026-04-07 20:19:48,0.09090909090909091,False
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,780,194,ramkarthikk,2026-04-07 20:19:54,0.24839948783610755,True
+47613118,Show HN: I built a small app for FSI German Course,entertainment,53,15,syedmsawaid,2026-04-07 20:19:59,0.2777777777777778,False
+47659363,"Show HN: I replaced Google Analytics with my own tool – no cookies, <1KB script",entertainment,13,10,VictorChanet,2026-04-07 20:20:13,0.7142857142857143,False
